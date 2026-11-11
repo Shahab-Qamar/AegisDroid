@@ -1,6 +1,6 @@
 # Aegis Droid
 
-An Android application security assessment project developed as a Final Year Project.
+An Android application security assessment project developed as a Final Year Project
 
 ## Objective
 
